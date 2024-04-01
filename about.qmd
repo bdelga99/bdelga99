@@ -1,5 +1,5 @@
 ---
-title: "Simone"
+title: "Benjamin Delgado"
 about:
   template: trestles
   image: profile.jpg
@@ -18,12 +18,4 @@ about:
       href: https://scholar.google.com
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
-
-## Education
-
-Where I studied
-
-## Experience
-
-What I've done
+I grew up in Chapel Hill, NC. I studied economics and mathematics at Williams College. After that, I worked as a research analyst at the Federal Reserve Bank of Atlanta for two years, supporting Simon Fuchs and Veronika Penciakova with their work on spatial economics and firm dynamics, respectively. Currently, I am a first-year PhD student at Brown University, looking to work on issues related to health, education, and labor economics.
