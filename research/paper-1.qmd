@@ -1,11 +1,8 @@
 ---
-title: "My First Paper"
+title: "Geographic Variation in Food Prices and the Effect of Food Programs on the Well-Being of the Elderly"
 author: 
-  - Simone
-  - Matthew DeHaven
-date: "January 01, 2024"
+  - Benjamin Delgado
+  - Lara Shore-Sheppard
 ---
 
-A description of my paper.
-
-Could include a photo, or links, or anything at all!
+I leverage plausibly exogenous geographic variation in the real value of SNAP benefits to examine the effects of variation in SNAP purchasing power on program enrollment, health outcomes, and health care utilization among the elderly
